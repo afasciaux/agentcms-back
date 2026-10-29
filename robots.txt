@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /agentcms-back/admin/
+
+Sitemap: https://afasciaux.github.io/agentcms-back/sitemaps/sitemap-index.xml
